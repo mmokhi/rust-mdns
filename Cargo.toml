@@ -15,7 +15,7 @@ libc = "0.2"
 log = "0.3"
 multimap = "0.3"
 net2 = "0.2"
-nix = { git = "https://github.com/nix-rust/nix" }
+nix = { git = "https://github.com/nix-rust/nix" branch = "new-ci/master" }
 rand = "0.3"
 tokio-core = "0.1.1"
 
